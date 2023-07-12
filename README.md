@@ -10,3 +10,12 @@
   - JogadorAbstrato: Classe abstrata que representa um jogador, podendo ser uma instância de JogadorReal (usuário) ou JogadorRandômico (simulado pelo programa).
   - Jogo: Representa uma instância do jogo, contendo um baralho e dois jogadores.
   - O sistema também precisa ser capaz de mostrar o vencedor, o status do jogo, e ter um menu interativo para escolha do tema do jogo. Por fim, o projeto deve implementar boas práticas de programação e conter tratamento de erros.
+
+# Inteligência Artificial: Homem vs IA
+- Em nosso projeto, introduzimos a opção de competir diretamente contra a inteligência artificial da OpenAI. Esta funcionalidade emprega algoritmos de aprendizado de máquina para determinar estratégias de jogo, elevando o nível de desafio e tornando a experiência mais estimulante para os jogadores. O objetivo é permitir que os jogadores aprimorem suas habilidades e estratégias ao enfrentar uma IA sofisticada e desafiadora.
+
+- Essa inovação não apenas eleva o patamar competitivo, mas também oferece aos jogadores uma visão prática do poder e do potencial da inteligência artificial. Enquanto se divertem com um jogo clássico, os jogadores ganham um entendimento mais aprofundado das aplicações práticas da IA.
+
+- Ao integrar a OpenAI, transformamos completamente a experiência de jogar SuperTrunfo. Com isso, adicionamos um componente de alta tecnologia à tradicional mecânica de jogo, proporcionando uma experiência única de competir contra uma IA em um ambiente familiar e amado.
+
+- Desafie-se nesta nova era digital e vivencie a emoção incomparável de competir contra uma inteligência artificial numa partida de SuperTrunfo. Esta é a combinação perfeita do clássico e do moderno, proporcionando uma experiência de jogo inigualável que você não encontrará em nenhum outro lugar!

@@ -12,7 +12,7 @@
   - O sistema também precisa ser capaz de mostrar o vencedor, o status do jogo, e ter um menu interativo para escolha do tema do jogo. Por fim, o projeto deve implementar boas práticas de programação e conter tratamento de erros.
 
 # INTELIGÊNCIA ARTIFICIAL: Homem vs IA
-- Em nosso projeto, introduzimos a opção de competir diretamente contra a inteligência artificial da OpenAI. Esta funcionalidade emprega algoritmos de aprendizado de máquina para determinar estratégias de jogo, elevando o nível de desafio e tornando a experiência mais estimulante para os jogadores. O objetivo é permitir que os jogadores aprimorem suas habilidades e estratégias ao enfrentar uma IA sofisticada e desafiadora.
+- No projeto, foi introduzido a opção de competir diretamente contra a inteligência artificial da OpenAI. Esta funcionalidade emprega algoritmos de aprendizado de máquina para determinar estratégias de jogo, elevando o nível de desafio e tornando a experiência mais estimulante para os jogadores. O objetivo é permitir que os jogadores aprimorem suas habilidades e estratégias ao enfrentar uma IA sofisticada e desafiadora.
 
 - Essa inovação não apenas eleva o patamar competitivo, mas também oferece aos jogadores uma visão prática do poder e do potencial da inteligência artificial. Enquanto se divertem com um jogo clássico, os jogadores ganham um entendimento mais aprofundado das aplicações práticas da IA.
 

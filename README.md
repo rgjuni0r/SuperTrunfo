@@ -19,5 +19,5 @@
 - Ao integrar a OpenAI, transformamos completamente a experiência de jogar SuperTrunfo. Com isso, adicionamos um componente de alta tecnologia à tradicional mecânica de jogo, proporcionando uma experiência única de competir contra uma IA em um ambiente familiar e amado.
 
 # AUTOR
-- Nome: Rogério Moreira Alves Júnior;
+- Desenvolvedor: Rogério Moreira Alves Júnior;
 - Projeto para a disciplina de Programação Orientada a Objetos, Universidade Federal de Goiás (UFG-GO);

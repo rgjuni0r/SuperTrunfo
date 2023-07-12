@@ -1,3 +1,7 @@
+# AUTOR
+- Desenvolvedor Autor do Projeto: Rogério Moreira Alves Júnior;
+- Projeto para a disciplina de Programação Orientada a Objetos, Universidade Federal de Goiás (UFG-GO);
+
 # PROJETO: Super Trunfo
 - O projeto "SuperTrunfo" é um trabalho final para a disciplina de Programação Orientada a Objetos. O objetivo é implementar uma versão digital do famoso jogo de cartas SuperTrunfo, em que os jogadores competem com base em características das cartas, sendo que cada carta representa um tema, como carros, dinossauros, países, etc.
 
@@ -17,7 +21,3 @@
 - Essa inovação não apenas eleva o patamar competitivo, mas também oferece aos jogadores uma visão prática do poder e do potencial da inteligência artificial. Enquanto se divertem com um jogo clássico, os jogadores ganham um entendimento mais aprofundado das aplicações práticas da IA.
 
 - Ao integrar a OpenAI, transformamos completamente a experiência de jogar SuperTrunfo. Com isso, adicionamos um componente de alta tecnologia à tradicional mecânica de jogo, proporcionando uma experiência única de competir contra uma IA em um ambiente familiar e amado.
-
-# AUTOR
-- Desenvolvedor: Rogério Moreira Alves Júnior;
-- Projeto para a disciplina de Programação Orientada a Objetos, Universidade Federal de Goiás (UFG-GO);

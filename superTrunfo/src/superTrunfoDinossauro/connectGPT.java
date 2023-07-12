@@ -10,7 +10,7 @@ import java.net.URL; // BIBLIOTECA P/ TRABALHAR COM URLs
 public class connectGPT {
 	// DEFININDO AS CONSTANTES DE URL E API KEY
 	private static final String apiUrl = "https://api.openai.com/v1/chat/completions";
-	private static final String apiKey = "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"; // CHAVE API AQUI: https://platform.openai.com/account/api-keys
+	private static final String apiKey = "MY-API-KEY-HERE"; // CHAVE API AQUI: https://platform.openai.com/account/api-keys
 
 	public static String getGPTResponse(String userInput) throws Exception { // userInput: ARMAZENA A ENTRADA DO USUÁRIO
 		// CRIANDO CONSTRUTOR: CRIANDO URL COM O ENDEREÇO DA API
